@@ -1,0 +1,10 @@
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\bin\Debug\异步socket_wcf.exe.config
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\bin\Debug\异步socket_wcf.exe
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\bin\Debug\异步socket_wcf.pdb
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.csprojResolveAssemblyReference.cache
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.Form1.resources
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.Properties.Resources.resources
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.csproj.GenerateResource.cache
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.csproj.CoreCompileInputs.cache
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.exe
+E:\项目文件\TCP\异步socket_wcf\异步socket_wcf\obj\Debug\异步socket_wcf.pdb

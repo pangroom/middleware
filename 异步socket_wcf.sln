@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异步socket_wcf", "异步socket_wcf\异步socket_wcf.csproj", "{044C5E77-5A4A-4A62-A6C4-8279494096DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044C5E77-5A4A-4A62-A6C4-8279494096DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044C5E77-5A4A-4A62-A6C4-8279494096DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044C5E77-5A4A-4A62-A6C4-8279494096DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044C5E77-5A4A-4A62-A6C4-8279494096DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372E2A8B-F3F4-46E7-B375-4FABCD02D7F0}
+	EndGlobalSection
+EndGlobal
